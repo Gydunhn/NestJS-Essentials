@@ -7,12 +7,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.0.0] - 2025-05-08
+## [1.0.0] - 2025-05-08
 
 ### Added
 
-* Initial release.
-  * Created extension pack.
+* Initial release with carefully selected extensions for NestJS development:
+  * VSC-Essentials - Essential extensions for Visual Studio Code
+  * TypeScript-Essentials - Essential extensions for TypeScript development
+  * NestJS File Generator - Generate NestJS files from the command palette or explorer
+  * NestJS Snippets - Code snippets for NestJS Framework
+  * Jest - Testing framework integration
+  * DotENV - .env file support
+  * Swagger Viewer - Preview Swagger API documentation
+  * Better Dockerfile Syntax - Enhanced syntax highlighting for Dockerfiles
+  * Docker - Docker integration for Visual Studio Code
+* Added recommended settings.json configuration to optimize development experience
+* Documentation with badges and extension details
 
 [Unreleased]: https://github.com/Gydunhn/NestJS-Essentials/tree/develop
-[0.0.0]: https://github.com/Gydunhn/NestJS-Essentials/releases/tag/0.0.1
+[1.0.0]: https://github.com/Gydunhn/NestJS-Essentials/releases/tag/1.0.0
