@@ -16,9 +16,10 @@ It is strongly recommended that these settings be used in your workspace. You ca
 
 These settings provide an optimized configuration for NestJS development, enhancing your experience with all the extensions included in this pack and its dependent packages (VSC-Essentials, VSC-Essentials-Core, TypeScript-Essentials, and JavaScript-Essentials).
 
-You can view and download the recommended [settings.json](https://gist.github.com/Gydunhn/YOUR_GIST_ID_HERE) file.
+You can view and download the recommended [settings.json](.vscode/settings.json) file.
 
 To use these settings:
+
 1. Open VS Code
 2. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac)
 3. Type "Preferences: Open Settings (JSON)"
