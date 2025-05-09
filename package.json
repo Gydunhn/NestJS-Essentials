@@ -32,6 +32,7 @@
     "Javascript",
     "Lint",
     "Snippets",
+    "Nest",
     "NestJS",
     "TypeScript",
     "Docker",
@@ -45,7 +46,7 @@
     "Core",
     "Elite"
   ],
-  "version": "1.0.0",
+  "version": "1.1.0",
   "publisher": "Gydunhn",
   "engines": {
     "vscode": "^1.35.0"
@@ -58,6 +59,7 @@
     "Gydunhn.typescript-essentials",
     "imgildev.vscode-nestjs-generator",
     "imgildev.vscode-nestjs-snippets-extension",
+    "imgildev.vscode-nestjs-swagger-snippets",
     "Orta.vscode-jest",
     "mikestead.dotenv",
     "Arjun.swagger-viewer",
